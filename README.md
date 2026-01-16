@@ -1,2 +1,2 @@
-# Trainig_Demo
+# Training_Demo
 Learning Github and Git
